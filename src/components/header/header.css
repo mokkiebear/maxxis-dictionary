@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 100%;
+}
+
+.title {
+    font-size: 4vw;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.1em;
+    padding: 48px 0;
+}
+
+.inputs {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.inputs > .MuiFormControl-root {
+    width: 40%;
+    margin: 24px;
+}

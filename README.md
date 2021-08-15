@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Здесь я использовал:
+- Реализовал хук useDebounce (чтобы запросы слать не после каждой буквы, а с задержкой)
+- Реализовал функционал для смены темы (темная/светлая)
+- Реализовал возможность перевода интерфейса (русский и английский языки)
+- Делаются запросы к внешнему API
+- Использование TS

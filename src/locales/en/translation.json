@@ -1,0 +1,26 @@
+{
+    "title": "Maxxi's dictionary",
+    "definition": "Definition",
+    "example": "Example",
+    "synonyms": "Synonyms",
+    "enterWord": "Enter a word...",
+    "selectLang": "Select a language...",
+    "darkMode": "Dark mode",
+
+    "hi": "Hindi",
+    "en": "English (US)",
+    "en-uk": "English (UK)",
+    "es": "Spanish",
+    "fr": "French",
+    "ja": "Japanese",
+    "cs": "Czech",
+    "nl": "Dutch",
+    "sk": "Slovak",
+    "ru": "Russian",
+    "de": "German",
+    "it": "Italian",
+    "ko": "Korean",
+    "pt-BR": "Brazilian Portuguese",
+    "ar": "Arabic",
+    "tr": "Turkish"
+}

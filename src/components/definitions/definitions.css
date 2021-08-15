@@ -1,0 +1,15 @@
+.definitions {
+    width: 100%;
+    overflow-y: auto;
+    padding: 12px 24px;
+    max-height: 60vh;
+}
+
+audio {
+    width: 100%;
+    margin-bottom: 32px;
+}
+
+.single-mean {
+    margin-bottom: 12px;
+}
