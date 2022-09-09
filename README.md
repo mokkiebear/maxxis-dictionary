@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Dictionary
+
+![image](https://user-images.githubusercontent.com/37170655/189375370-0add1a39-4cda-4a87-aa4e-37a6578cfd3a.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
